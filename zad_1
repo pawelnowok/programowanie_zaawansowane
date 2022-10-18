@@ -1,4 +1,0 @@
-def names(name1="Jakub", name2="Piotr", name3="Kamil", name4="Pawel", name5="Janusz"):
-    print(f'Cześć: {name1}, {name2}, {name3}, {name4}, {name5}')
-
-names()
